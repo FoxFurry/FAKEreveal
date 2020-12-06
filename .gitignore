@@ -1,0 +1,6 @@
+deepfake_classifier/classifier/weights
+dfdc_set_all
+dfdc_train_102
+deepfake_classifier/classifier/training/zoo/
+venv
+.idea
